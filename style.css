@@ -41,7 +41,7 @@ body{
     margin-bottom: 20px;
 }
 
-.registerbox input[type="text"], input[type="number"]
+.registerbox input[type="text"], input[type="number"], input[type="password"]
 {
     border: none;
     border-bottom: 1px solid #fff;
